@@ -1,2 +1,1 @@
-# base-py
-repo imagen base_py:1.0
+# Imagen docker, python:3.7.5 con flask, cv2 y np
